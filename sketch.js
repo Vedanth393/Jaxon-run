@@ -10,7 +10,7 @@ function setup(){
 
   createCanvas(400,400)
  
-track=createSprite(200,200)
+  track=createSprite(200,200)
 track.addImage(trackImg)
 track.velocityY = 4;
 track.scale=1.2;
